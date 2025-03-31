@@ -1,0 +1,3 @@
+La cantidad total de elementos es de: 20
+La cantidad de numeros negativos es de: 8
+La cantidad de numeros positivos es de: 12
