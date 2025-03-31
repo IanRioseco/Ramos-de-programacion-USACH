@@ -1,0 +1,8 @@
+Atenas,427 AC,Platón,Filósofo
+Seleucia,240 AC,Diógenes,Filósofo
+Citio,336 AC,Zenón,Filósofo
+Atenas,440 AC,Socrates,Filósofo
+Cirene,270 
+AC,Erastótenes,Astrónomo
+Esparta,488 AC,Leónidas,Rey
+Sinope,412 AC,Diógenes,Filósofo
